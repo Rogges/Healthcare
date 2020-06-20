@@ -7,4 +7,4 @@ The plan is to analyze data and build predictive models based on the data from a
 I. Andhra Pradesh Liver Patient Data EDA and ML
 
 
-II. 80s Heart Data EDA
+Sidelined - Folder with data projects that I've started but have suspended in lieu of working on something else.
